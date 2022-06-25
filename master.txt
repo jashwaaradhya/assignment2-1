@@ -1,1 +1,2 @@
 This is master file
+One more feature added dfrom master developer
